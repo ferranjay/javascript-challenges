@@ -1,0 +1,45 @@
+body {
+    font-size: 1.2em;
+    width: 100%;
+    margin: 0 auto;
+    letter-spacing: 0.5px;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("../img/tip.jpg");
+}
+
+h1 {
+    text-align: center;
+}
+
+#container {
+    align-content: center;
+    padding: 1.5em;
+    margin-top: 200px;
+    height: 600px;
+    min-width: 300px;
+    max-width: 300px;
+    background-color: white;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+}
+
+div {
+    line-height: 2.5em;
+}
+
+input[type="text"]{
+    font-size: 1.1em;
+    text-align: center;
+}
+
+
+label, input{
+    width: 100%;
+}
+
+

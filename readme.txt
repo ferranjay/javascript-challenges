@@ -1,0 +1,7 @@
+-   Javascript                          // 30 projecten
+-   Gebruik van OOP                     // aanleren van mooie code schrijven
+-   Iedere dag presenteren              // focus op lichaamstaal en intonatie
+-   Projecten in Database zetten        // ophalen van projecten via database
+-   Gebruik maken van SASS              // classes aanleren voor het stylen
+-   Portfolio netjes maken              // blueprint portfolio afronden 
+-   Aparte pagina voor dit project      // link naar nieuwe pagina voor de JS projecten
